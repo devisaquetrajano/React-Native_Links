@@ -13,5 +13,4 @@ Gerenciador de links com separação por categorias, cada link salvo contendo no
 </ul>
 
 **Visualização do projeto:**
-
-https://abrir.link/LRCgh)
+ https://abrir.link/LRCgh
